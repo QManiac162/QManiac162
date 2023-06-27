@@ -1,4 +1,4 @@
-### ⚙️ Greetings from QManiac162 !
+# **Greetings from QManiac162 !**
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/132601485/249276491-78694b4d-8c6c-429f-ad14-b42a2fb2d66c.jpg">
@@ -6,6 +6,10 @@
  <img alt="Quantum Maniac" src="https://user-images.githubusercontent.com/132601485/249278149-5d7fac22-f89e-44ae-9193-5e42949d489f.jpg">
 </picture>
 
+
+## Guess Who?
+Hello visitor! I am **DEEP SAMANTA** a.k.a **QManiac162**
+> JUST *gears* AROUND THE *skull*
 
 <!--
 **QManiac162/QManiac162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
