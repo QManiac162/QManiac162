@@ -1,8 +1,8 @@
 # **Greetings from QManiac162 !**
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/132601485/249276491-78694b4d-8c6c-429f-ad14-b42a2fb2d66c.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/132601485/249277119-12f98564-1a08-4e91-8027-4d810f4243ca.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/132601485/250339032-f60b319c-74bd-42c4-ae6b-4d00db799880.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/132601485/250337926-07a85969-f5d2-4909-91f4-977a6bf87691.gif">
  <img alt="Quantum Maniac" src="https://user-images.githubusercontent.com/132601485/249278149-5d7fac22-f89e-44ae-9193-5e42949d489f.jpg">
 </picture>
 
