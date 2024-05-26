@@ -11,6 +11,16 @@
 Hello visitor! I am **DEEP SAMANTA** a.k.a **QManiac162**
 > JUST *gears* AROUND THE *skull*
 
+Player Skillsets:
+In my knowledge chest, I posses the greatest asset of AI-ML and CAD (Solidworks, CATIA) with CAE (Ansys, Altair). Other skillsets include Web-Dev (fullstack), App-Dev (native) and Game-Dev (Unreal and Unity).
+Multilingual in C, C++, Java, JavaScript, Python, Kotlin and Matlab languages.
+Competitive programmer with research interests in Physics and Mechanical field.
+
+> Character stats: 
+> Artist by heart, 
+> Engineer by brain,
+> Creative by nature !
+
 <!--
 **QManiac162/QManiac162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
